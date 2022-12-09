@@ -16,7 +16,6 @@ You can click the Preview link to take a look at your changes.
   [📧 contact@valerebron.com](mailto:contact@valerebron.com)
   [👔 linkedin](https://www.linkedin.com/in/valere-bron/)
   [💻 github](https://github.com/valerebron)
-  [💾 pdf](cv.pdf)
 
 ## **Stack**
 
