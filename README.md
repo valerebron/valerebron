@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # Valère BRON
-### Développeur **javascript** Indépendant
+### Développeur **web**
 
   [📞 0681847737](tel:+33681847737)
   [📧 contact@valerebron.com](mailto:contact@valerebron.com)
