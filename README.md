@@ -18,9 +18,9 @@ You can click the Preview link to take a look at your changes.
   [💻 github](https://github.com/valerebron)
   [💾 pdf](cv.pdf)
 
-## **Stack** favorite
+## **Stack**
 
-**SASS - Vue - Apolo - Graphql - Node - Express - Prisma.io - Docker - Gitlab-ci**
+**SASS - Tailwind - Vue - Apollo - Graphql - Node - Express - Prisma.io - Docker - Gitlab-ci / Drone.io**
 
 #### 2022-2021 - **Potager City**
 
@@ -97,8 +97,9 @@ Développeur front-end / Intégrateur magento en contrat professionnel pour l’
 
 J'expérimente depuis quelques années une multitude de projets:
 
-* paquets nodejs
+* paquets nodejs en typescript
 * web extensions
 * microservices docker
+* surcouche docker-compose en bash (pegaz.io)
 
 Cela me donne régulièrement l'occasion de faire de l'administration système, du déploiement continu et de tester de nouveaux outils front et back.
