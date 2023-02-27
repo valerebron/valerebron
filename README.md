@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 ### Développeur **web**
 
   [📞 0681847737](tel:+33681847737)
-  [📧 contact@valerebron.com](mailto:contact@valerebron.com)
+  [✉️ contact@valerebron.com](mailto:contact@valerebron.com)
   [👔 linkedin](https://www.linkedin.com/in/valere-bron/)
   [💻 github](https://github.com/valerebron)
 
