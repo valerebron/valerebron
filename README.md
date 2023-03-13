@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @valerebron
 - 👀 I’m interested in javascript, devops, linux & open source !
 - 🌱 I’m currently learning ES13 :)
-- 💞️ I’m looking to collaborate on [...](https://github.com/valerebron/pegaz)
+- 💞️ I’m looking to collaborate on [pegaz.io](https://github.com/valerebron/pegaz)
 - 📫 You can reach me on contact@valerebron.com !
 
 <!---
@@ -19,7 +19,12 @@ You can click the Preview link to take a look at your changes.
 
 ## **Stack**
 
-**SASS - Tailwind - Vue - Apollo - Graphql - Node - Express - Prisma.io - Docker - Gitlab-ci / Drone.io**
+**SASS - Tailwind - Vue3 - Nuxt - Apollo - Graphql - Node - Expressjs - Nestjs/Nitro-h3 - Prisma.io - Docker - Gitlab-ci / Drone.io**
+#### 2023-2022 - **Pegaz.io**
+
+Développeur shell / docker
+
+- Création, développement, test et maintenance de l'outil
 
 #### 2022-2021 - **Potager City**
 
@@ -86,6 +91,10 @@ Diverses missions dévelopeur front-end en agences comme **PEAKS**, **Agence Int
 
 Développeur front-end / Intégrateur en CDI pour l'agence Apps Panel.
 
+#### 2012 - **Massivemusic.fr**
+
+Développeur fullstack mysql / php / jquery
+
 #### 2011 - **Dn'd**
 
 Développeur front-end / Intégrateur magento en contrat professionnel pour l’agence Dn’d.
@@ -100,5 +109,6 @@ J'expérimente depuis quelques années une multitude de projets:
 * web extensions
 * microservices docker
 * surcouche docker-compose en bash (pegaz.io)
+* kit de développemnt full-stack avec nuxt (sidebase.io)
 
 Cela me donne régulièrement l'occasion de faire de l'administration système, du déploiement continu et de tester de nouveaux outils front et back.
