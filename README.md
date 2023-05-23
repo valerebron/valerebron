@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 
 Développeur Vue
 
-- dével
+- mise en place de l'agenda de fitarena avec vue3 & pinia
 
 #### 2023-2022 - **Pegaz.io**
 
