@@ -20,6 +20,13 @@ You can click the Preview link to take a look at your changes.
 ## **Stack**
 
 **Vue - Tailwind - Nuxt - Prisma.io - Node - Nestjs/Nitro-h3 - Docker - Gitlab-ci / Drone.io**
+
+#### 2023 - **Fitarena**
+
+Développeur Vue
+
+- dével
+
 #### 2023-2022 - **Pegaz.io**
 
 Développeur shell / docker
@@ -28,7 +35,7 @@ Développeur shell / docker
 
 #### 2022-2021 - **Potager City**
 
-Développeur Vue.js
+Développeur Vue
 
 - Développement et mise à jour l'ensemble des environnements front-end
 - Mise en place des phases de tests techniques pour stabiliser les services
