@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 ## **Stack**
 
-**Vue - Tailwind - Nuxt - Prisma.io - Node - Nestjs/Nitro-h3 - Docker - Gitlab-ci / Drone.io**
+**Vue - Tailwind - Nuxt - Prisma.io - Node - Nestjs / Nitro-h3 - Docker - Gitlab-ci / Drone.io**
 
 #### 2023 - **Fitarena**
 
