@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 ## **Stack**
 
-**SASS - Tailwind - Vue3 - Nuxt - Apollo - Graphql - Node - Expressjs - Nestjs/Nitro-h3 - Prisma.io - Docker - Gitlab-ci / Drone.io**
+**Vue - Tailwind - Nuxt - Prisma.io - Node - Nestjs/Nitro-h3 - Docker - Gitlab-ci / Drone.io**
 #### 2023-2022 - **Pegaz.io**
 
 Développeur shell / docker
