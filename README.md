@@ -19,19 +19,27 @@ You can click the Preview link to take a look at your changes.
 
 ## **Stack**
 
-**Vue - Tailwind - Nuxt - Prisma.io - Node - Nestjs / Nitro-h3 - Docker - Gitlab-ci / Drone.io**
+**Vue - Pinia - Tailwind - Nuxt - Prisma - Node - Docker - Nitro/h3 - Drone/Gitlab**
 
 #### 2023 - **Fitarena**
 
 Développeur Vue
 
 - renfort sur le front de fitarena, mise en place de l'agenda interactif avec vue3 & pinia
+- analyse et refactorisation du code existant
+- mise en place des stores par entité
+- mise en place des services api
+- ajout d'interactions avec le calendrier
+- ajout de composants UI spécifiques pour le calendrier
+-   technologies :  Vue 3, Pinia, Vite
 
 #### 2023-2022 - **Pegaz.io**
 
 Développeur shell / docker
 
 - Création, développement, test et maintenance de l'outil
+- développement en suivant une architecture 'infrastructure as code'
+- développement en respectant la pratique du 'single source of truth'
 
 #### 2022-2021 - **Potager City**
 
@@ -42,7 +50,7 @@ Développeur Vue
 - Participation à l'amélioration de l'expérience utilisateur en coordination avec les équipes produits
 - Optimisation du balisage technique SEO pour améliorer les performances de trafic depuis les moteurs de recherche
 - Controle de la qualité du code
-  technologies :  VueJS, VueX, Vue Router, Webpack, SCSS, tailwind.css
+  technologies :  Vue 2, VueX, Vue Router, Webpack, SCSS, Tailwind, Storybook
 
 #### 2021-2020 - **MassiveMusic**
 
