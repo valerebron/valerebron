@@ -2,7 +2,7 @@
 - 👀 I’m interested in web technologies & linux
 - 🌱 I’m currently learning openseadragon
 - 💞️ I’m looking to collaborate on [pegaz.io](https://github.com/valerebron/pegaz)
-- 📫 You can reach me on contact@valerebron.com
+- 📫 You can reach me on contact@valere.dev
 
 <!---
 valerebron/valerebron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 ### Développeur **web**
 
   [📞 0681847737](tel:+33681847737)
-  [✉️ contact@valerebron.com](mailto:contact@valerebron.com)
+  [✉️ contact@valere.dev](mailto:contact@valere.dev)
   [👔 linkedin](https://www.linkedin.com/in/valere-bron/)
   [💻 github](https://github.com/valerebron)
 
