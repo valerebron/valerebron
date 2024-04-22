@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @valerebron
 - 👀 I’m interested in web technologies & linux
 - 🌱 I’m currently learning openseadragon
-- 💞️ I’m looking to collaborate on [pegaz.io](https://github.com/valerebron/pegaz)
+- 💞️ I’m looking to collaborate on [docker-web](https://github.com/docker-web/docker-web)
 - 📫 You can reach me on contact@valere.dev
 
 <!---
