@@ -21,6 +21,14 @@ You can click the Preview link to take a look at your changes.
 
 **Vue - Pinia - Tailwind - Nuxt - Prisma - Node - Docker - Nitro/h3 - Drone/Gitlab**
 
+#### 2024-2022 - **docker-web.io**
+
+Développeur shell / docker
+
+- Création, développement, test et maintenance de l'outil
+- développement en suivant une architecture *infrastructure as code*
+- développement en respectant l'architecture *single source of truth*
+
 #### 2023 - **Fitarena**
 
 Développeur Vue
@@ -32,14 +40,6 @@ Développeur Vue
 - ajout d'interactions avec le calendrier
 - ajout de composants UI spécifiques pour le calendrier
 -   technologies :  Vue 3, Pinia, Vite
-
-#### 2023-2022 - **Pegaz.io**
-
-Développeur shell / docker
-
-- Création, développement, test et maintenance de l'outil
-- développement en suivant une architecture *infrastructure as code*
-- développement en respectant l'architecture *single source of truth*
 
 #### 2022-2021 - **Potager City**
 
