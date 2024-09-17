@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 
 **Vue - Pinia - Tailwind - Nuxt - Prisma - Node - Docker - Nitro/h3 - Drone/Gitlab**
 
-#### 2024-2022 - **docker-web.io**
+#### 2024-2022 - **docker-web.com**
 
 Développeur shell / docker
 
