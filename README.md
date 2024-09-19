@@ -102,7 +102,11 @@ Développeur front-end / Intégrateur en CDI pour l'agence Apps Panel.
 
 Développeur front-end / Intégrateur magento en contrat professionnel pour l’agence Dn’d.
 
+## **Diplômes**
+
 #### 2011 - **Licence Ingénierie de l’Internet**
+
+#### 2010 - **BTS Communication et Industries Graphiques**
 
 ## projets **Continus**
 
