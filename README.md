@@ -46,7 +46,7 @@ Développeur Vue
 
 #### 2021-2020 - **MassiveMusic**
 
-Développeur FullStack javascript
+Développeur Vu / Typescript / Node / Prisma
 
 - Développement des composants Vue normalisé avec Atomic Design
 - Intégration SCSS normalisé avec ITcss
@@ -57,7 +57,7 @@ Développeur FullStack javascript
 
 #### 2021-2020 - **Analytics**
 
-Développeur javascript
+Développeur Node js
 
 - Développement du tracker client
 - Modélisation des donnée avec Prisma.io
@@ -98,11 +98,7 @@ Diverses missions dévelopeur front-end en agences comme **PEAKS**, **Agence Int
 
 Développeur front-end / Intégrateur en CDI pour l'agence Apps Panel.
 
-#### 2012 - **Massivemusic.fr**
-
-Développeur fullstack mysql / php / jquery
-
-#### 2011 - **Dn'd**
+#### 2011/2012 - **Dn'd**
 
 Développeur front-end / Intégrateur magento en contrat professionnel pour l’agence Dn’d.
 
