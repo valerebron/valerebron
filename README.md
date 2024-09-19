@@ -19,17 +19,9 @@ You can click the Preview link to take a look at your changes.
 
 ## **Stack**
 
-**Vue - Pinia - Tailwind - Nuxt - Prisma - Node - Docker - Nitro/h3 - Drone/Gitlab**
+**Vue - Pinia - Tailwind - Nuxt - Prisma - Node - Nest - Docker - Drone/Gitea/Gitlab**
 
-#### 2024-2022 - **docker-web.com**
-
-Développeur shell / docker
-
-- Création, développement, test et maintenance de l'outil
-- développement en suivant une architecture *infrastructure as code*
-- développement en respectant l'architecture *single source of truth*
-
-#### 2023 - **Fitarena**
+#### 2024 - **Fitarena**
 
 Développeur Vue
 
@@ -39,9 +31,9 @@ Développeur Vue
 - mise en place des services api
 - ajout d'interactions avec le calendrier
 - ajout de composants UI spécifiques pour le calendrier
--   technologies :  Vue 3, Pinia, Vite
+  technologies :  Vue 3, Pinia, Vite
 
-#### 2022-2021 - **Potager City**
+#### 2023-2021 - **Potager City**
 
 Développeur Vue
 
@@ -123,7 +115,7 @@ J'expérimente depuis quelques années une multitude de projets:
 * paquets nodejs en typescript
 * web extensions
 * microservices docker
-* surcouche docker-compose en bash (pegaz.io)
+* surcouche de docker-compose en bash (docker-web.com)
 * kit de développemnt full-stack avec nuxt (sidebase.io)
 
 Cela me donne régulièrement l'occasion de faire de l'administration système, du déploiement continu et de tester de nouveaux outils front et back.
