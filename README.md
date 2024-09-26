@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 
 Développeur Vue
 
-- renfort sur le front de fitarena, mise en place de l'agenda interactif avec vue3 & pinia
+- renfort sur le front de fitarena, mise en place de l'agenda interactif avec Vue 3 & pinia
 - analyse et refactorisation du code existant
 - mise en place des stores par entité
 - mise en place des services api
@@ -46,11 +46,11 @@ Développeur Vue
 
 #### 2021-2020 - **MassiveMusic**
 
-Développeur Vu / Typescript / Node / Prisma
+Développeur Vue / Typescript / Node / Prisma
 
 - Développement des composants Vue normalisé avec Atomic Design
 - Intégration SCSS normalisé avec ITcss
-- Développement du store vuex
+- Développement du store Vue X
 - Construction de l'API avec GraphQL & Typescript
 - Modélisation des donnée avec Prisma.io
 - Mise en place de l'Intégration Continue avec Gitlab et Docker-compose
