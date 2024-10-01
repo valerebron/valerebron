@@ -28,7 +28,7 @@ Développeur Vue
 - renfort sur le front de fitarena, mise en place de l'agenda interactif avec Vue 3 & pinia
 - analyse et refactorisation du code existant
 - mise en place des stores par entité
-- mise en place des services api
+- mise en place des composable api
 - ajout d'interactions avec le calendrier
 - ajout de composants UI spécifiques pour le calendrier
   technologies :  Vue 3, Pinia, Vite
@@ -37,7 +37,7 @@ Développeur Vue
 
 Développeur Vue
 
-- Développement et mise à jour l'ensemble des environnements front-end
+- Développement et mise à jour de l'ensemble des environnements front-end
 - Mise en place des phases de tests techniques pour stabiliser les services
 - Participation à l'amélioration de l'expérience utilisateur en coordination avec les équipes produits
 - Optimisation du balisage technique SEO pour améliorer les performances de trafic depuis les moteurs de recherche
