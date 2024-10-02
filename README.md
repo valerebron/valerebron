@@ -92,7 +92,7 @@ Intégrateur pour africanews.com et euronews.com v2
 
 #### 2014/2015 - **Agences Web**
 
-Diverses missions dévelopeur front-end en agences comme **PEAKS**, **Agence Interactive**, **Sirroco**, **Nevada**, **Brand Advocate** …
+Diverses missions dévelopeur front-end en agences comme **Agence Interactive**, **Sirroco**, **Nevada**, **Brand Advocate** …
 
 #### 2013 - **Apps Panel**
 
