@@ -88,7 +88,7 @@ Intégrateur pour le prototype des nouveaux sites de Michelin (bike.michelin.com
 #### 2016 - **Euronews**
 
 Intégrateur pour africanews.com et euronews.com v2
-- Intégration SCSS normalisé avec ITcss
+- Intégration SCSS normalisé avec Bootstrap
 
 #### 2014/2015 - **Agences Web**
 
